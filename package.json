@@ -1,5 +1,10 @@
 {
-  "name": "rollup",
+  "name": "@shum-dev/rollup-react-components-library-template",
+  
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/shum-dev"
+  },
+
   "version": "0.0.1",
   "description": "React Components Library",
   "main": "dist/cjs/index.js",
